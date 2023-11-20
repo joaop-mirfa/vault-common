@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "b00456f72feb6f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34c801b4b571845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014ca1b339600226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common/Dispositivos Eletricos/Mosfet/Configuração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85c649601ee34983",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3709a216a7fb79a4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0fbca0ee93aa24ec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6d05ad0c3902b012",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0b3b1b3148c58549",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bc39e48b40c0cbc7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6b4aee1fef052bb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "common/Dispositivos Eletricos/Mosfet/Configuração.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3113c585dc2c5194",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "common/Dispositivos Eletricos/Mosfet/Configuração.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "97d2ce6f083e40dd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "common/Dispositivos Eletricos/Mosfet/Configuração.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3709a216a7fb79a4",
+  "lastOpenFiles": [
+    "common/Controle/Untitled.md",
+    "common/Dispositivos Eletricos/Mosfet/Configuração.md",
+    "Untitled",
+    "common/Controle",
+    "/common/Dispositivos Eletricos/Mosfet/Configuração.md",
+    "common/Dispositivos Eletricos/Mosfet",
+    "common/Dispositivos Eletricos",
+    "/common/Dispositivos Eletricos/Mosfet",
+    "/common/Dispositivos Eletricos"
+  ]
+}
