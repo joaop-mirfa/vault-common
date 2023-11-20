@@ -11,8 +11,12 @@
             "id": "76538d36c2e0bf67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dispositivos Eletricos/Mosfet/Configuração.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dispositivos Eletricos/Mosfet/Configuração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dispositivos Eletricos/Mosfet/Configuração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dispositivos Eletricos/Mosfet/Configuração.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "76538d36c2e0bf67",
   "lastOpenFiles": [
+    "Dispositivos Eletricos/Mosfet/Configuração.md",
     "Dispositivos Eletricos/Mosfet",
     "Dispositivos Eletricos",
     "Untitled"
