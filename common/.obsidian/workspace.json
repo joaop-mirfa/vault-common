@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3dbeb7c9c7b938",
+        "id": "5a2a55b6a5547d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "76538d36c2e0bf67",
+            "id": "a1524e07b9283c95",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76538d36c2e0bf67",
+  "active": "a1524e07b9283c95",
   "lastOpenFiles": [
+    "Controle/Untitled.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
     "Untitled.canvas",
-    "Controle/Untitled.md",
     "Controle",
     "Untitled",
     "Dispositivos Eletricos/Mosfet",
