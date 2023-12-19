@@ -3,10 +3,11 @@ tags:
   - testeTag
   - fiqueidoidao
   - ligourapa
-aliases:
+aliases: []
 ---
 
 # as
 
 ## teste
 [[teste 3]]
+[[teste 2]]
