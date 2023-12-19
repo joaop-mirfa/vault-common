@@ -1,8 +1,7 @@
---- 
-tags:
-- recipe 
-- cooking  
 ---
+tags:
+---
+
 # as
 
 ## teste
