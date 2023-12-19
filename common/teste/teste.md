@@ -1,5 +1,8 @@
 ---
 tags:
+  - testeTag
+  - fiqueidoidao
+  - ligourapa
 ---
 
 # as

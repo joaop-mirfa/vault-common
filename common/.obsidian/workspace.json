@@ -11,12 +11,8 @@
             "id": "4f4d4df55ffdd8f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste/teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#testeTag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teste/teste.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,12 +142,12 @@
   },
   "active": "4f4d4df55ffdd8f6",
   "lastOpenFiles": [
+    "teste/teste 2.md",
+    "teste/teste.md",
     "teste/teste 3.md",
     "teste/Untitled.canvas",
-    "teste/teste.md",
     "Untitled 1.canvas",
     "2023-12-18.md",
-    "teste/teste 2.md",
     "teste",
     "Controle/Untitled.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
