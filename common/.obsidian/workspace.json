@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71fbcec10f910c74",
+        "id": "1c83528143de0c18",
         "type": "tabs",
         "children": [
           {
-            "id": "77d584838bc9f17f",
+            "id": "83df3823ba5ddfdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/teste 2.md",
+                "file": "teste/teste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/teste 2.md",
+                "file": "teste/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/teste 2.md",
+                "file": "teste/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste/teste 2.md"
+                "file": "teste/teste.md"
               }
             }
           },
           {
-            "id": "b34a2c1159c271fa",
+            "id": "a4f9f9a7a7d09887",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
@@ -158,12 +158,12 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "77d584838bc9f17f",
+  "active": "83df3823ba5ddfdd",
   "lastOpenFiles": [
+    "teste/teste 3.md",
+    "teste/teste 2.md",
     "teste/teste.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
-    "teste/teste 2.md",
-    "teste/teste 3.md",
     "2023-12-18.md",
     "teste/Untitled.canvas",
     "Untitled 1.canvas",

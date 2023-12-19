@@ -6,14 +6,33 @@
       "id": 1,
       "sortOrder": 1,
       "displayName": "teste",
-      "description": "matches notes that:  are inside any of these folders (including nested folders): teste",
-      "name": "teste",
-      "folders": [
+      "description": "matches notes that:  contain any of these tags: teste",
+      "tags": [
         "teste"
-      ]
+      ],
+      "name": "teste",
+      "queue": {
+        "filenames": [
+          "teste/teste.md"
+        ]
+      }
     }
   ],
-  "currentNoteSet": null,
+  "currentNoteSet": {
+    "id": 1,
+    "sortOrder": 1,
+    "displayName": "teste",
+    "description": "matches notes that:  contain any of these tags: teste",
+    "tags": [
+      "teste"
+    ],
+    "name": "teste",
+    "queue": {
+      "filenames": [
+        "teste/teste.md"
+      ]
+    }
+  },
   "openNextNoteAfterReviewing": true,
   "openRandomNote": false,
   "useReviewFrequency": false,
