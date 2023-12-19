@@ -19,9 +19,11 @@
             "id": "593661557290c34d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "teste/Drawing 2023-12-19 09.08.42.excalidraw.md"
+                "file": "teste/teste.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/Drawing 2023-12-19 09.08.42.excalidraw.md",
+                "file": "teste/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/Drawing 2023-12-19 09.08.42.excalidraw.md",
+                "file": "teste/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste/Drawing 2023-12-19 09.08.42.excalidraw.md"
+                "file": "teste/teste.md"
               }
             }
           },
@@ -149,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +168,7 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "d6f9c396579b1206",
   "lastOpenFiles": [
     "teste/Drawing 2023-12-19 09.08.42.excalidraw.md",
     "Excalidraw",
