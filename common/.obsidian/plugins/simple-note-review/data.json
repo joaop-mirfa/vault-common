@@ -4,7 +4,13 @@
   "noteSets": [
     {
       "id": 1,
-      "sortOrder": 1
+      "sortOrder": 1,
+      "displayName": "teste",
+      "description": "matches notes that:  are inside any of these folders (including nested folders): teste",
+      "name": "teste",
+      "folders": [
+        "teste"
+      ]
     }
   ],
   "currentNoteSet": null,
