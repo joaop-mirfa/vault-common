@@ -12,9 +12,13 @@
       ],
       "name": "teste",
       "queue": {
-        "filenames": [
-          "teste/teste.md"
-        ]
+        "filenames": []
+      },
+      "stats": {
+        "totalCount": 3,
+        "notRewiewedCount": 0,
+        "reviewedLastSevenDaysCount": 3,
+        "reviewedLastThirtyDaysCount": 3
       }
     }
   ],
@@ -28,9 +32,7 @@
     ],
     "name": "teste",
     "queue": {
-      "filenames": [
-        "teste/teste.md"
-      ]
+      "filenames": []
     }
   },
   "openNextNoteAfterReviewing": true,
