@@ -1,0 +1,15 @@
+{
+  "reviewedFieldName": "reviewed",
+  "reviewFrequencyFieldName": "review-frequency",
+  "noteSets": [
+    {
+      "id": 1,
+      "sortOrder": 1
+    }
+  ],
+  "currentNoteSet": null,
+  "openNextNoteAfterReviewing": true,
+  "openRandomNote": false,
+  "useReviewFrequency": false,
+  "unreviewedNotesFirst": false
+}

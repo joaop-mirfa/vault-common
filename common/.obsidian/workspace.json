@@ -128,13 +128,21 @@
                 "file": "teste/teste.md"
               }
             }
+          },
+          {
+            "id": "77cd2513bf471c93",
+            "type": "leaf",
+            "state": {
+              "type": "simple-note-review-sidebar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,10 +152,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "simple-note-review:Simple Note Review: Open Sidebar View": false,
+      "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "4f4d4df55ffdd8f6",
+  "active": "77cd2513bf471c93",
   "lastOpenFiles": [
     "teste/teste 3.md",
     "teste/teste.md",
