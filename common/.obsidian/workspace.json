@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10e51a98fdf95c3d",
+        "id": "bb1fcbd1efdaf754",
         "type": "tabs",
         "children": [
           {
-            "id": "4f4d4df55ffdd8f6",
+            "id": "5dc765e5fb6e5ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste/teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teste/teste.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,11 +150,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "b34a2c1159c271fa",
+  "active": "5dc765e5fb6e5ac1",
   "lastOpenFiles": [
-    "teste/teste 3.md",
     "teste/teste.md",
     "teste/teste 2.md",
+    "teste/teste 3.md",
     "2023-12-18.md",
     "teste/Untitled.canvas",
     "Untitled 1.canvas",
