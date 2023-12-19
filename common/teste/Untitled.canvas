@@ -3,8 +3,7 @@
 		{"id":"11e382c6c7f510e8","x":-640,"y":-660,"width":400,"height":400,"type":"file","file":"teste/teste 2.md"},
 		{"id":"6cf40a5692bdbcad","x":-640,"y":-80,"width":400,"height":400,"type":"file","file":"teste/teste 3.md"},
 		{"id":"d3aa711252f3dfff","x":-1280,"y":-320,"width":400,"height":400,"type":"file","file":"teste/teste.md"},
-		{"id":"f309b9a44f6e521d","x":-240,"y":880,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a46bc3798440bec4","x":-1280,"y":-520,"width":250,"height":60,"color":"1","type":"text","text":"teste\n"}
+		{"id":"a46bc3798440bec4","x":-1280,"y":-520,"width":360,"height":120,"color":"6","type":"text","text":"teste\n"}
 	],
 	"edges":[
 		{"id":"0742fa37736dcfc8","fromNode":"d3aa711252f3dfff","fromSide":"right","toNode":"11e382c6c7f510e8","toSide":"left"},

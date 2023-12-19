@@ -43,15 +43,8 @@
             "id": "955367b8d609d6a4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "teste/Untitled.canvas",
-                "viewState": {
-                  "x": -4.824620493349581,
-                  "y": 4.546887405739,
-                  "zoom": -1
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -121,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teste/Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,10 +173,10 @@
   },
   "active": "955367b8d609d6a4",
   "lastOpenFiles": [
+    "teste/Untitled.canvas",
     "teste/teste 3.md",
     "Untitled 1.canvas",
     "2023-12-18.md",
-    "teste/Untitled.canvas",
     "teste/teste 2.md",
     "teste/teste.md",
     "teste",
