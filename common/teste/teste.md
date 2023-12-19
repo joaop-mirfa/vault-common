@@ -3,6 +3,7 @@ tags:
   - testeTag
   - fiqueidoidao
   - ligourapa
+aliases:
 ---
 
 # as
