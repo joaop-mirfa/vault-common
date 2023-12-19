@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45e19f9d93f8d007",
+        "id": "5d2c0bd337151ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "32c9fe2b7f1bd9d6",
+            "id": "bb5573b4bc8db79f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,11 +150,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "d6f9c396579b1206",
+  "active": "bb5573b4bc8db79f",
   "lastOpenFiles": [
     "teste/teste.md",
-    "teste/teste 3.md",
     "teste/teste 2.md",
+    "teste/teste 3.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
     "2023-12-18.md",
     "teste/Untitled.canvas",

@@ -1,8 +1,6 @@
 ---
 tags:
   - testeTag
-  - fiqueidoidao
-  - ligourapa
   - teste
 aliases: 
 reviewed: 2023-12-19
