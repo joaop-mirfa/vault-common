@@ -11,8 +11,12 @@
             "id": "5dc765e5fb6e5ac1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "teste/teste 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fiqueidoidao",
+                "query": "tag:#testeTag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "teste/teste 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "teste/teste 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "teste/teste 2.md"
+              }
             }
           },
           {
@@ -150,7 +159,7 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "5dc765e5fb6e5ac1",
+  "active": "6fffe880c136c433",
   "lastOpenFiles": [
     "teste/teste.md",
     "teste/teste 2.md",
