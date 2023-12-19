@@ -19,11 +19,9 @@
             "id": "593661557290c34d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "teste/teste.md",
-                "mode": "source",
-                "source": false
+                "file": "teste/Drawing 2023-12-19 09.08.42.md"
               }
             }
           }
@@ -57,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#testeTag",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/teste.md",
+                "file": "teste/Drawing 2023-12-19 09.08.42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/teste.md",
+                "file": "teste/Drawing 2023-12-19 09.08.42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste/teste.md"
+                "file": "teste/Drawing 2023-12-19 09.08.42.md"
               }
             }
           },
@@ -168,11 +167,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "d6f9c396579b1206",
+  "active": "593661557290c34d",
   "lastOpenFiles": [
-    "teste/Drawing 2023-12-19 09.08.42.excalidraw.md",
-    "Excalidraw",
+    "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
+    "Excalidraw",
     "teste/teste 2.md",
     "teste/teste 3.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
