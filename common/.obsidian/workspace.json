@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "teste/teste.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,11 +150,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "4c8eb727c0c6a8f5",
+  "active": "d6f9c396579b1206",
   "lastOpenFiles": [
+    "teste/teste.md",
     "teste/teste 3.md",
     "teste/teste 2.md",
-    "teste/teste.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
     "2023-12-18.md",
     "teste/Untitled.canvas",
