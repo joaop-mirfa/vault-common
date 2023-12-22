@@ -6,6 +6,8 @@ Is acronym for some principles that extend the basic OOP concepts:
 	- Inheritance
 	- Polymorphism
 
-Being familiar with this principles these principles will make you more effective in your job
+Being familiar with this principles these principles will make you more effective, and important part to fully understand design patterns
 
-This principles is not rules to follow at all c, you dont use Solid principles always
+This principles is not rules to follow at all cost, you dont use Solid principles always
+
+The princi
