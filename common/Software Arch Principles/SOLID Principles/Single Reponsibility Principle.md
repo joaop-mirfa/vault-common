@@ -35,7 +35,7 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 ### Obs
 
 1. There is no need to have multiple classes that all hold just one function. Try to find the right balance when defining responsibilities and classes.
-2. 
+2. to split the big code in some functions, we need to define the [[class ]]
 
 ## Sample
 *** para desenvolver
