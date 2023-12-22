@@ -2,7 +2,7 @@
 
 ## Definition
 
-Single responibility principle states that, for every self-containes unit of code (like class) there should be one and only one reason to change (had only a single responsibility)
+Single responibility principle states that, for every self-containes unit of code (like class) there should be one and only one reason to change (had only a single responsibility/purpose)
 
 Class should be responsible for only one specific functionality
 
@@ -13,6 +13,7 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 		 Robert C. Martin
 
 ## Why
+
 - Code that not implement this principles can create [[God Object]]
 - Applications are born to change.
 -  To make our classes more reusable and create more flexible systems.
