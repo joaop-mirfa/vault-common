@@ -33,7 +33,9 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 	- if 2 developers works in same file, if they alter diferent functions, reduce the probability of error
 
 ### Obs
-1. 
+
+1. There is no need to have multiple classes that all hold just one function. Try to find the right balance when defining responsibilities and classes.
+2. 
 
 ## Sample
 *** para desenvolver
