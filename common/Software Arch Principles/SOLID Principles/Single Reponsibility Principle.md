@@ -1,3 +1,6 @@
 #SOLID 
 
-Single responibility principle states that, for every self-containes unit of code (like class) there should be one an
+Single responibility principle states that, for every self-containes unit of code (like class) there should be one and only one reason to change
+
+Class should be responsible for only one specific functionality
+
