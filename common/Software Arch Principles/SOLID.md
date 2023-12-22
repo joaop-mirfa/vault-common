@@ -10,4 +10,11 @@ Being familiar with this principles these principles will make you more effectiv
 
 This principles is not rules to follow at all cost, you dont use Solid principles always
 
-The princi
+The principles are:
+- [[Single Reponsibility Principle]]
+- [[Open-Closed Principle]]
+- [[Liskov Substitution Principle]]
+- [[Interface Segregation Principle]]
+- [[Dependency Inversion Principle]]
+
+
