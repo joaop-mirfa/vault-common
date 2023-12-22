@@ -14,6 +14,13 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 
 ## Why
 
+- Applications are born to change.
+-  To make our classes more reusable and create more flexible systems.
+- To help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system, unlike with classes that hold many responsibilities, 
+where updating one can break one or more other parts.
+- To make our classes more readable. Fewer responsibilities lead to less code, and less code 
+is simpler to visualize in a few seconds, leading to a quicker understanding of that piece of 
+software
 
 it makes your software easier to implement and prevents unexpected side effects of future changes.
 
