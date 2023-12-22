@@ -30,4 +30,4 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 	- avoids any unnecessary, technical coupling between responsibilities and reduces the probability that you need to change your class
 
 - reduce merge conflicts
-	- 
+	- if 2 developers works in same file, if they alter 
