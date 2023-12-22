@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Software Arch Principles/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Software Arch Principles/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Software Arch Principles/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md"
+                "file": "Software Arch Principles/SOLID.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
-    "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",
     "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+    "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",
     "Software Arch Principles/SOLID.md",
     "Software Arch Principles/SOLID Principles/Open-Closed Principle.md",
     "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
