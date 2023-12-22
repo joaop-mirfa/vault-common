@@ -9,4 +9,6 @@ Class should be responsible for only one specific functionality
 Each of these components is atomic (unsplittable), self-contained and can be easily replaced
 
 
-	here should never be more than one reason for a class to change.”
+	There should never be more than one reason for a class to change.
+		 Robert C. Martin
+
