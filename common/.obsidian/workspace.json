@@ -11,8 +11,12 @@
             "id": "1f3a1beab06a84ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Principles/SOLID/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Principles/SOLID/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Principles/SOLID/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Principles/SOLID/Untitled.md"
+              }
             }
           },
           {
-            "id": "4c8eb727c0c6a8f5",
+            "id": "4ed31b4128aadc26",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
@@ -130,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +158,10 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
+    "Software Principles/SOLID/Untitled.md",
+    "Software Principles/SOLID",
     "Software Principles",
     "git",
     "teste/Drawing 2023-12-19 09.08.42.md",
