@@ -6,4 +6,6 @@ Is acronym for some principles that extend the basic OOP concepts:
 	- Inheritance
 	- Polymorphism
 
-Being familiar with this principles these principles 
+Being familiar with this principles these principles will make you more effective in your job
+
+This principles is not law
