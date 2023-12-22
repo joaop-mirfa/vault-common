@@ -32,6 +32,8 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 - reduce merge conflicts
 	- if 2 developers works in same file, if they alter diferent functions, reduce the probability of error
 
+### Obs
+1. 
 
 ## Sample
 *** para desenvolver
