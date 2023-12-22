@@ -14,15 +14,17 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 
 ## Why
 
-- it makes your software easier to implement and prevents unexpected side effects of future change
-	-  make our classes more reusable and create more flexible systems.
+- it makes your software easier to implement 
+	-  make our classes more reusable and create more flexible systems
+	-  classes more readable. Fewer responsibilities lead to less code, and less code 
+is simpler to visualize
 	
 - Code that not implement this principles can create [[God Object]]
 	- Will be relatively difficult to modify, because everything is in one place
 	
 - Applications are born to change.
 	- prevents unexpected side effects of future changes.
-	- To help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system 
+	- help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system 
 
 - To make our classes more readable. Fewer responsibilities lead to less code, and less code 
 is simpler to visualize in a few seconds, leading to a quicker understanding of that piece of 
