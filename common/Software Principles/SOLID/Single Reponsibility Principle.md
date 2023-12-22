@@ -1,1 +1,7 @@
 #SOLID 
+
+---
+aliases:
+- SRP
+
+---
