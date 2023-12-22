@@ -1,1 +1,15 @@
 #SOLID 
+
+## Definition
+
+Single responibility principle states that, for every self-containes unit of code (like class) there should be one and only one reason to change (had only a single responsibility/purpose)
+
+Class should be responsible for only one specific functionality
+
+Each of these components is atomic (unsplittable), self-contained and can be easily replaced
+
+
+	Software entities (classes, modules, functions, and so on) should be open for extension    but closed for modification
+		 Robert C. Martin
+
+## Why
