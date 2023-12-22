@@ -16,8 +16,8 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 
 - it makes your software easier to implement 
 	-  make our classes more reusable and create more flexible systems
-	-  classes more readable. Fewer responsibilities lead to less code, and less code 
-is simpler to visualize
+	-  classes more readable.
+		- Fewer responsibilities lead to less code, and less code is simpler to visualize
 	
 - Code that not implement this principles can create [[God Object]]
 	- Will be relatively difficult to modify, because everything is in one place
@@ -29,4 +29,5 @@ is simpler to visualize
 -  reduce coupling
 	- avoids any unnecessary, technical coupling between responsibilities and reduces the probability that you need to change your class
 
-- 
+- reduce merge conflicts
+	- 
