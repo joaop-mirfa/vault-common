@@ -6,3 +6,4 @@ Is acronym for some principles that extend the basic OOP concepts:
 	- Inheritance
 	- Polymorphism
 
+Being familiar with this principles these principles 
