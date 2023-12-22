@@ -1,2 +1,2 @@
-#SOLID #ArchPrinciples 
+#SOLID 
 
