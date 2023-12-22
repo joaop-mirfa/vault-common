@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Principles/SOLID/2-.md",
+                "file": "Software Principles/SOLID/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Principles/SOLID/2-.md",
+                "file": "Software Principles/SOLID/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Principles/SOLID/2-.md",
+                "file": "Software Principles/SOLID/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Principles/SOLID/2-.md"
+                "file": "Software Principles/SOLID/Untitled.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
-    "Software Principles/SOLID/1- Single Reponsibility (SRP).md",
-    "Software Principles/SOLID/2-.md",
+    "Software Principles/SOLID/3- Liskov Substitution Principle.md",
+    "Software Principles/SOLID/Untitled.md",
+    "Software Principles/SOLID/2- Open-Closed Principle.md",
+    "Software Principles/SOLID/1- Single Reponsibility Principle.md",
     "Software Principles/SOLID",
     "Software Principles",
     "git",
