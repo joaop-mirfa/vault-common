@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "4ed31b4128aadc26",
+            "id": "9a20d32cbdb39042",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,15 +151,15 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "9a20d32cbdb39042",
   "lastOpenFiles": [
-    "Software Principles/SOLID Principles/Single Reponsibility Principle.md",
-    "Software Principles/SOLID Principles/Open-Closed Principle.md",
-    "Software Principles/SOLID Principles/Liskov Substitution Principle.md",
-    "Software Principles/SOLID Principles/Interface Segregation Principle.md",
-    "Software Principles/SOLID Principles/Dependency Inversion Principle.md",
-    "Software Principles/SOLID Principles",
-    "Software Principles",
+    "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+    "Software Arch Principles/SOLID Principles/Open-Closed Principle.md",
+    "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
+    "Software Arch Principles/SOLID Principles/Interface Segregation Principle.md",
+    "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",
+    "Software Arch Principles/SOLID Principles",
+    "Software Arch Principles",
     "git",
     "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
