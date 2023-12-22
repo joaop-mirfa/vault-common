@@ -25,10 +25,8 @@ is simpler to visualize
 - Applications are born to change.
 	- prevents unexpected side effects of future changes.
 	- help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system 
-
-- To make our classes more readable. Fewer responsibilities lead to less code, and less code 
-is simpler to visualize in a few seconds, leading to a quicker understanding of that piece of 
-software
+	
+- avoids any unnecessary, technical coupling between responsibilities and reduces the probability that you need to change your class
 
 it makes your software easier to implement and prevents unexpected side effects of future changes.
 
