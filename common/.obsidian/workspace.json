@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Programming paradigms/Object Oriented/Concepts/Class Cohesion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Programming paradigms/Object Oriented/Concepts/Class Cohesion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "file": "Programming paradigms/Object Oriented/Concepts/Class Cohesion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md"
+                "file": "Programming paradigms/Object Oriented/Concepts/Class Cohesion.md"
               }
             }
           },
@@ -159,13 +159,15 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
-    "Programming paradigms/Untitled",
+    "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+    "Programming paradigms/Object Oriented/Concepts/Class Cohesion.md",
+    "Programming paradigms/Object Oriented/Concepts",
+    "Programming paradigms/Object Oriented",
     "Programming paradigms",
     "Software Arch Principles/Concepts",
     "Software Arch Principles/Anti Patterns/God Object.md",
-    "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
     "Software Arch Principles/Anti Patterns",
     "Software Arch Principles/SOLID.md",
     "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",
@@ -185,8 +187,6 @@
     "teste/Untitled.canvas",
     "Untitled 1.canvas",
     "teste",
-    "Controle/Untitled.md",
-    "Controle",
-    "Dispositivos Eletricos/Mosfet"
+    "Controle/Untitled.md"
   ]
 }
