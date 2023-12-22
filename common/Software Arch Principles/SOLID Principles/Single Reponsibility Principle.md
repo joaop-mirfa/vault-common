@@ -15,6 +15,7 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 ## Why
 
 - Code that not implement this principles can create [[God Object]]
+	- Will be relatively difficult to modify
 - Applications are born to change.
 -  To make our classes more reusable and create more flexible systems.
 - To help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system, unlike with classes that hold many responsibilities, 
