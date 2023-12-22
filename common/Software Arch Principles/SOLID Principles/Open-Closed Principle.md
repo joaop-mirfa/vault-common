@@ -2,11 +2,9 @@
 
 ## Definition
 
-Open-Closed Principle states that every 
+Open-Closed Principle states that every atomic unit of code should be open for extension, but closed for modification
 
-Class should be responsible for only one specific functionality
 
-Each of these components is atomic (unsplittable), self-contained and can be easily replaced
 
 
 	Software entities (classes, modules, functions, and so on) should be open for extension    but closed for modification
