@@ -14,6 +14,8 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 
 ## Why
 
+- it makes your software easier to implement and prevents unexpected side effects of future change
+	-  make our classes more reusable and create more flexible systems.
 - Code that not implement this principles can create [[God Object]]
 	- Will be relatively difficult to modify, because everything is in one place
 - Applications are born to change.
