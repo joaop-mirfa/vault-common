@@ -6,4 +6,6 @@ Single responibility principle states that, for every self-containes unit of cod
 
 Class should be responsible for only one specific functionality
 
-Each of these components is atomic (unsplittable), self-containe
+Each of these components is atomic (unsplittable), self-contained and can be easily replaced
+
+
