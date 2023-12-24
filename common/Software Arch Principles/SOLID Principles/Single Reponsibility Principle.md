@@ -12,6 +12,9 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 	There should never be more than one reason for a class to change.
 		 Robert C. Martin
 
+So, this may seem counter-intuitive at first. Wouldn’t it be easier to say that a class should only have one reason to exist?
+
+
 ## Why
 
 - it makes your software easier to implement 

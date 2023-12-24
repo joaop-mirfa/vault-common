@@ -11,8 +11,12 @@
             "id": "1f3a1beab06a84ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md"
+              }
             }
           },
           {
@@ -153,6 +161,7 @@
   },
   "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
+    "Programming paradigms/Object Oriented/Concepts/Encapsulation.md",
     "Software Arch Principles/SOLID Principles/SOLID.md",
     "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
     "Programming paradigms/Object Oriented/Concepts/Coupling.md",
