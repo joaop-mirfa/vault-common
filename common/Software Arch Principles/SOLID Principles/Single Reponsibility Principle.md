@@ -17,7 +17,7 @@ So, this may seem counter-intuitive at first. Wouldn’t it be easier to say tha
 		 -> This would cause a large sprawl of classe causing the system to be difficult to understand and difficult to change
 
 
-So
+	When the business perception and context has changed, then you have a reason to change the class.
 
 
 ## Why
