@@ -25,7 +25,9 @@ The key point of deciding when a class should change is not based on a purely lo
 
 To simplify 
 
-	Gather together things that change for same re
+	Gather together things that change for same reason. Separate things that change for diferent reasons.
+
+
 ## Why
 
 - it makes your software easier to implement 
