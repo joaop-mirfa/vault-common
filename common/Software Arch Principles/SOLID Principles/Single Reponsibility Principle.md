@@ -21,7 +21,7 @@ So, this may seem counter-intuitive at first. Wouldn’t it be easier to say tha
 
 The reason that a class should have one reason to change, instead of one reason to exist, is the business context in which you are building the system.
 
-the business context in which they are needed may necessitate them becoming one and the same. The key point of deciding when a class should change is not based on a purely logical separation of concepts, but rather the business’s perception of the concept. When the business perception and context has changed, then you have a reason to change the class
+The key point of deciding when a class should change is not based on a purely logical separation of concepts, but rather the business’s perception of the concept. When the business perception and context has changed, then you have a reason to change the class
 
 
 ## Why
@@ -62,4 +62,4 @@ the business context in which they are needed may necessitate them becoming one 
 
 https://www.youtube.com/watch?v=gNZpaw6-3xY&list=PLVHlvMRWE0Y4APZiLYyUyWOyMKm1H9zwm&index=2&t=275s
 https://stackify.com/solid-design-principles/
-
+https://www.codemag.com/article/1001061
