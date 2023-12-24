@@ -54,6 +54,11 @@ To simplify
 2. to split the big code in some single responsability functions, we need to analize the [[Class Cohesion]] of this part of code
 
 ## Sample
+
+- Software layers
+	- External Services
+	- Frameworks
+	- Pro
 *** para desenvolver
 
 
