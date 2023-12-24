@@ -49,3 +49,5 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 ## reference
 
 https://www.youtube.com/watch?v=gNZpaw6-3xY&list=PLVHlvMRWE0Y4APZiLYyUyWOyMKm1H9zwm&index=2&t=275s
+https://stackify.com/solid-design-principles/
+
