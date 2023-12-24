@@ -48,6 +48,10 @@ To simplify, its about not mix responsabilities,
 - reduce merge conflicts
 	- if 2 developers works in same file, if they alter diferent functions, reduce the probability of error
 
+## How to reduce/minimize erros of this principles
+
+
+
 ### Obs
 
 1. There is no need to have multiple classes that all hold just one function. Try to find the right balance when defining responsibilities and classes.
