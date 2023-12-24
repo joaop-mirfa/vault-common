@@ -26,7 +26,7 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 	- prevents unexpected side effects of future changes.
 	- help maintain applications. Since you know the only thing a class does before updating it, you  can quickly foresee the impact on the system 
 	
--  reduce coupling
+-  reduce [[coupling]]
 	- avoids any unnecessary, technical coupling between responsibilities and reduces the probability that you need to change your class
 
 - reduce merge conflicts
