@@ -23,7 +23,7 @@ The reason that a class should have one reason to change, instead of one reason 
 
 The key point of deciding when a class should change is not based on a purely logical separation of concepts, but rather the business’s perception of the concept. When the business perception and context has changed, then you have a reason to change the class
 
-To simplify 
+To simplify, its about not mix responsabilities,
 
 	Gather together things that change for same reason. Separate things that change for diferent reasons.
 
