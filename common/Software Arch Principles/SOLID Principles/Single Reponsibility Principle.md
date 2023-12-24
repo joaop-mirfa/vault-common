@@ -52,7 +52,8 @@ To simplify
 
 1. There is no need to have multiple classes that all hold just one function. Try to find the right balance when defining responsibilities and classes.
 2. to split the big code in some single responsability functions, we need to analize the [[Class Cohesion]] of this part of code
-3. we need to every time think about the SRP when c
+3. we need to every time think about the SRP when creating some think, to not mis
+4. 
 
 ## Sample
 
