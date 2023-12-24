@@ -13,6 +13,11 @@ Each of these components is atomic (unsplittable), self-contained and can be eas
 		 Robert C. Martin
 
 So, this may seem counter-intuitive at first. Wouldn’t it be easier to say that a class should only have one reason to exist?
+	 If you take it to that extreme and build classes that have one reason to exist, you may end up with only one method per class
+		 -> This would cause a large sprawl of classe causing the system to be difficult to understand and difficult to change
+
+
+So
 
 
 ## Why
