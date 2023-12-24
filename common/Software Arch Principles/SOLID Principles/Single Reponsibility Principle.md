@@ -19,6 +19,10 @@ So, this may seem counter-intuitive at first. Wouldn’t it be easier to say tha
 
 	When the business perception and context has changed, then you have a reason to change the class.
 
+The reason that a class should have one reason to change, instead of one reason to exist, is the business context in which you are building the system.
+
+the business context in which they are needed may necessitate them becoming one and the same. The key point of deciding when a class should change is not based on a purely logical separation of concepts, but rather the business’s perception of the concept. When the business perception and context has changed, then you have a reason to change the class
+
 
 ## Why
 
