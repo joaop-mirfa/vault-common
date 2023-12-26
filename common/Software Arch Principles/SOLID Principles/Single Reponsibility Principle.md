@@ -60,7 +60,7 @@ To simplify, its about not mix responsabilities,
 - Acomplamento
 	- Acoplamento só cresce dentro da sua classe
 - Fan-Out
-	- Numero de chamadas que uma classe tem, se esta recebendo muita chamadas de varias classes, pode estar tendo uma responsabilidade maior que deveria
+	- Numero de chamadas que uma classe faz para outra, se esta recebendo muita chamadas de varias classes, pode estar tendo uma responsabilidade maior que deveria
 - RFC (Response for a class)
 	- Numero de interface publica disponíveis para outra classe utilizar (essa quantidade faz sentido)
 - LCOM (Lack of cohesion of methods)
