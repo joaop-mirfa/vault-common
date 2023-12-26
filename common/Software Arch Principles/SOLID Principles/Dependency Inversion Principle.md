@@ -8,7 +8,7 @@ Dependency Inversion Principle states that a higher level object should never de
 	One should “depend upon abstractions, [not] concretions.
 
 using interfaces is the best way to approach the DIP. 
-	. interfaces are more flexible, more powerful, and better suited to design contracts.
+	interfaces are more flexible, more powerful, and better suited to design contracts.
 
 
 
