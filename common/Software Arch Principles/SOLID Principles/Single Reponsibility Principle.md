@@ -51,8 +51,8 @@ To simplify, its about not mix responsabilities,
 ## How to reduce/minimize erros of this principles
 
 - Ter nitidez sobre o problema aquela funcionalidade/pedaço de código deve realizar
-- Manter nivel de Cohesion. Todas as unidades precisam estar relacionadas
-- 
+- Manter nivel de Cohesion. Todas as unidades precisam estar relacionadas/coesas para resolver o que se propõe
+- Evitar "acomplamento mental". Não fazer um design pensando 
 
 ### Obs
 
