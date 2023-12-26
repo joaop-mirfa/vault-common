@@ -53,6 +53,10 @@ To simplify, its about not mix responsabilities,
 - Ter nitidez sobre o problema aquela funcionalidade/pedaço de código deve realizar
 - Manter nivel de Cohesion. Todas as unidades precisam estar relacionadas/coesas para resolver o que se propõe
 - Evitar "acomplamento mental". Não fazer um design pensando no futuro serviço do frontend ou serviço que irá consumir tal funcionalidade, mas sim pensar em atender o problema que vc precisa resolver
+	- O contexto deve ajudar a ter clareza mas não deve ser fator fundamental para um decisão de funcionario
+
+## How to metrify the SRO
+
 
 ### Obs
 
