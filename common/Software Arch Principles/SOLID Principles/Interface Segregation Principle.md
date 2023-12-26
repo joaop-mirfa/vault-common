@@ -13,7 +13,8 @@ Interface Segregation Principle states thar if any particular interface member i
 - You should value small interfaces more.
 - You should not try to create a multipurpose interface as “an interface to rule them all”.
 
+
 ### obs
 
 - In c# we can inheritance for interfaces just like we can use for class
-- If the method not implement all
+- If the method not implement all of contract of this interface, we are violate this principle
