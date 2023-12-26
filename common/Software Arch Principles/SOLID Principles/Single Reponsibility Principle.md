@@ -59,7 +59,9 @@ To simplify, its about not mix responsabilities,
 
 - Acomplamento
 - Fan-Out
+	- Numero de chamadas que uma classe tem, se esta recebendo muita chamadas de varias classes, pode estar tendo uma responsabilidade maior que deveria
 - RFC (Response for a class)
+	- Se um 
 - LCOM (Lack of cohesion of methods)
 
 ### Obs
