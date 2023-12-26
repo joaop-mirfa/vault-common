@@ -50,7 +50,8 @@ To simplify, its about not mix responsabilities,
 
 ## How to reduce/minimize erros of this principles
 
-- Ter nitidez sobre o problema aquela funcionalida
+- Ter nitidez sobre o problema aquela funcionalidade/pedaço de código deve realizar
+- 
 
 ### Obs
 
