@@ -58,10 +58,11 @@ To simplify, its about not mix responsabilities,
 ## How to metrify the SRP
 
 - Acomplamento
+	- Acoplamento só cresce dentro da sua classe
 - Fan-Out
 	- Numero de chamadas que uma classe tem, se esta recebendo muita chamadas de varias classes, pode estar tendo uma responsabilidade maior que deveria
 - RFC (Response for a class)
-	- Numero de interface publica disponíveis para outra classe urt
+	- Numero de interface publica disponíveis para outra classe utilizar (essa quantidade faz sentido)
 - LCOM (Lack of cohesion of methods)
 	- Metodos de uma classe estão conectados com os atributos da classe
 
