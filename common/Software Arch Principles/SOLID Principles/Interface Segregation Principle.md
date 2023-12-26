@@ -12,8 +12,8 @@ Interface Segregation Principle states thar if any particular interface member i
 - You should create interfaces.
 - You should value small interfaces more.
 - You should not try to create a multipurpose interface as “an interface to rule them all”.
-
-
+-  you should separate the interface into logical pieces, based on the needs of the consumers.
+- 
 ### obs
 
 - In c# we can inheritance for interfaces just like we can use for class
