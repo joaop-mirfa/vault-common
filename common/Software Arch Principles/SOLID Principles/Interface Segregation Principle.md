@@ -15,4 +15,5 @@ Interface Segregation Principle states thar if any particular interface member i
 
 ### obs
 
-- In c# we can implement interface by the base 
+- In c# we can inheritance for interfaces just like we can use for class
+- If the method not implement all
