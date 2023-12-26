@@ -13,3 +13,6 @@ Interface Segregation Principle states thar if any particular interface member i
 - You should value small interfaces more.
 - You should not try to create a multipurpose interface as “an interface to rule them all”.
 
+### obs
+
+- In c# we can implement interface by the base 
