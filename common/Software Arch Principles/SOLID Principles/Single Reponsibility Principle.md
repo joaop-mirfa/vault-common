@@ -55,8 +55,12 @@ To simplify, its about not mix responsabilities,
 - Evitar "acomplamento mental". Não fazer um design pensando no futuro serviço do frontend ou serviço que irá consumir tal funcionalidade, mas sim pensar em atender o problema que vc precisa resolver
 	- O contexto deve ajudar a ter clareza mas não deve ser fator fundamental para um decisão de funcionario
 
-## How to metrify the SRO
+## How to metrify the SRP
 
+- Acomplamento
+- Fan-Out
+- RFC (Response for a class)
+- LCOM (Lack of cohesion of methods)
 
 ### Obs
 
