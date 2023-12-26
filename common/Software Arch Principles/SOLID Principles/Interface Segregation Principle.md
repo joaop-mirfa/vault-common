@@ -15,6 +15,10 @@ Interface Segregation Principle states thar if any particular interface member i
 -  you should separate the interface into logical pieces, based on the needs of the consumers.
 
 can be considered a sub-set, or more specific form of the [[Single Reponsibility Principle]]
+
+## why
+
+The use of this principle helps to prevent confusion and also helps to cut down on semantic coupling-the idea that a developer has to know the specific implementation of the class to use it correctly.
 ### obs
 
 - In c# we can inheritance for interfaces just like we can use for class
