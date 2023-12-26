@@ -9,3 +9,7 @@ Interface Segregation Principle states thar if any particular interface member i
 
 	Many client-specific interfaces are better than one general-purpose interface.
 
+- You should create interfaces.
+- You should value small interfaces more.
+- You should not try to create a multipurpose interface as “an interface to rule them all”.
+
