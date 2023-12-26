@@ -83,9 +83,6 @@ To simplify, its about not mix responsabilities,
 	- UI
 
 
-
-
-
 ### Cards
 
 
