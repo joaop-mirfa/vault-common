@@ -10,6 +10,8 @@ Dependency Inversion Principle states that a higher level object should never de
 using interfaces is the best way to approach the DIP. 
 	interfaces are more flexible, more powerful, and better suited to design contracts.
 
+you want to work with a standard interface. Furthermore, you want to ensure that you can replace the implementation without violating the expectations of that interface
+
 
 
 ## obs
