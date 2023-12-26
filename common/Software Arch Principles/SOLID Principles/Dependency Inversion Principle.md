@@ -12,7 +12,7 @@ using interfaces is the best way to approach the DIP.
 
 you want to work with a standard interface. Furthermore, you want to ensure that you can replace the implementation without violating the expectations of that interface
 
-
+The higher-level policy should define an abstraction that it will call out to, where some detail implementation executes the requested action
 
 ## obs
 
