@@ -16,5 +16,5 @@ using interfaces is the best way to approach the DIP.
 
 - abstract classes are also abstractions, but you should depend on interfaces whenever 
 possible instead.
-	An abstract class is an abstraction but is not 100% abstract
-	Abstract classes are used to encapsulate default behaviors that you can then inherit in sub-classes N
+	1. An abstract class is an abstraction but is not 100% abstract
+	2. Abstract classes are used to encapsulate default behaviors that you can then inherit in sub-classes N
