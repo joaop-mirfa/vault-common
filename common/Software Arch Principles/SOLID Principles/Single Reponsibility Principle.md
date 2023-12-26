@@ -50,7 +50,7 @@ To simplify, its about not mix responsabilities,
 
 ## How to reduce/minimize erros of this principles
 
-
+- Ter
 
 ### Obs
 
