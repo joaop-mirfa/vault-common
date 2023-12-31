@@ -1,5 +1,9 @@
 #SOLID 
 
+The Liskov Substitution Principle says that an object inheriting from a base class, interface, or other abstraction must be semantically substitutable for the original abstraction. 
+
+Even if the original abstraction is poorly named, the intent of that abstraction should not be changed by the specific implementations
+
 
 	Let ∅(x) be a property provable about objects x of type T. Then, ∅(y) should be true for objects y of type S, where S is a subtype of T.
 
