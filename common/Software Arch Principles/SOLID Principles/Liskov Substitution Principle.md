@@ -12,9 +12,6 @@ Even if the original abstraction is poorly named, the intent of that abstraction
 you should be able to swap an object of type T with an object of type S, where S is the 
 subtype of T, without breaking your program’s correctness
 
-A type must be substitutable by its subtypes without altering the correctness of the application
-
-
 polymorphic behavior is part and parcel of C# language features, but it is a developer’s 
 responsibility to ensure that such a polymorphic setup doesn’t introduce any errors or inaccuracies into the  system
 
@@ -25,3 +22,6 @@ you can’t violate the [[Covariance & Contravariance]] in C#:
 ## why
 
 LSP focuses on preserving subtype behaviors, which leads to system stability. 
+
+A type must be substitutable by its subtypes without altering the correctness of the application
+
