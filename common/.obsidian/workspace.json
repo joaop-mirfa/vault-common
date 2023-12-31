@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md",
+                "file": "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md",
+                "file": "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md",
+                "file": "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md"
+                "file": "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "1f3a1beab06a84ba",
   "lastOpenFiles": [
-    "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
     "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md",
+    "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
     "Software Arch Principles/SOLID Principles/Interface Segregation Principle.md",
     "Software Arch Principles/SOLID Principles/Open-Closed Principle.md",
     "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",

@@ -12,5 +12,7 @@ A type must be substitutable by its subtypes without altering the correctness of
 
 
 polymorphic behavior is part and parcel of C# language features, but it is a developer’s 
-responsibility to ensure that such a polymorphic setup doesn’t introduce any errors or inaccuracies into the 
-system
+responsibility to ensure that such a polymorphic setup doesn’t introduce any errors or inaccuracies into the  system
+
+you can’t violate the following rules in C#:
+	The contravariance of method arguments in the subtype
