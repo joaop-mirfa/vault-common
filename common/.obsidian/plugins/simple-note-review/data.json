@@ -19,7 +19,8 @@
         "notRewiewedCount": 0,
         "reviewedLastSevenDaysCount": 3,
         "reviewedLastThirtyDaysCount": 3
-      }
+      },
+      "validationError": "noteset review queue is empty. if you are sure it should be not, try resetting queue and/or checking noteset rules."
     }
   ],
   "currentNoteSet": {
