@@ -11,8 +11,12 @@
             "id": "88c63b67ab0b8efc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Infrastructure/Api Gateway/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Infrastructure/Api Gateway/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Infrastructure/Api Gateway/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Infrastructure/Api Gateway/Untitled.md"
+              }
             }
           },
           {
@@ -151,9 +159,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "88c63b67ab0b8efc",
   "lastOpenFiles": [
-    "Untitled",
+    "Software Infrastructure/Api Gateway/Untitled.md",
+    "Software Infrastructure/Api Gateway",
+    "Software Infrastructure",
     "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
     "Software Arch Principles/SOLID Principles/Interface Segregation Principle.md",
     "Software Arch Principles/SOLID Principles/Dependency Inversion Principle.md",
@@ -176,14 +186,12 @@
     "git",
     "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
-    "Excalidraw",
     "teste/teste 2.md",
     "teste/teste 3.md",
     "Dispositivos Eletricos/Mosfet/Configuração.md",
     "2023-12-18.md",
     "teste/Untitled.canvas",
     "Untitled 1.canvas",
-    "teste",
     "Controle/Untitled.md"
   ]
 }
