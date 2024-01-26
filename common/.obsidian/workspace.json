@@ -11,8 +11,12 @@
             "id": "88c63b67ab0b8efc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Techniches/Product/Super learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Techniches/Product/Super learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Techniches/Product/Super learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Techniches/Product/Super learning.md"
+              }
             }
           },
           {
@@ -153,6 +161,9 @@
   },
   "active": "88c63b67ab0b8efc",
   "lastOpenFiles": [
+    "Techniches/Product/Super learning.md",
+    "Techniches/Product",
+    "Techniches",
     "Software Infrastructure/Api Gateway/Kong.md",
     "Software Infrastructure/Api Gateway",
     "Software Infrastructure",
@@ -174,8 +185,6 @@
     "Software Arch Principles/Anti Patterns/God Object.md",
     "Software Arch Principles/Anti Patterns",
     "Software Arch Principles/SOLID Principles",
-    "Software Arch Principles",
-    "git",
     "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
     "teste/teste 2.md",
