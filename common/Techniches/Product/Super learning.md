@@ -3,4 +3,5 @@
 	Esteja sempre aprendendo
 
 2- Planeje seu tempo de atividade
-	Para aprender qualquer coisa voce precisa de atenção/foco
+	Para aprender qualquer coisa você precisa de atenção/foco
+		-> tempo limite para seu cerebro 
