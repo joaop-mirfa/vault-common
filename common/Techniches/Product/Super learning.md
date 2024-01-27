@@ -8,3 +8,7 @@
 				entre 30 e 50 min
 		-> tempo maximo de limite do cerebro de total atenção: 90 min
 
+3- abstrair o conechimento
+	-> aprender é melhor que decorar
+		entenda pequenas partes para corelaciona-las
+	-> 
