@@ -14,4 +14,5 @@
 	-> 2 tipos de conhecimento
 		raso e profundo
 	-> aprender todo o contexto que voce esta estudando do que se apegar aos detalhes
-		um baterista tocar mel	
+		um baterista conhecer melhor o ritmo que esta tocando que a configuração da bateria
+		na receita, seguir o passo a passo inicial, para aprender, entender o porque do passo a passo para depois 	
