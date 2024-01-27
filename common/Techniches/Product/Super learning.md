@@ -13,4 +13,5 @@
 		entenda pequenas partes para corelaciona-las
 	-> 2 tipos de conhecimento
 		raso e profundo
-		
+	-> aprender todo o contexto que voce esta estudando do que se apegar aos detalhes
+		um baterista tocar mel	
