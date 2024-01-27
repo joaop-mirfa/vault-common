@@ -11,4 +11,6 @@
 3- abstrair o conechimento
 	-> aprender é melhor que decorar
 		entenda pequenas partes para corelaciona-las
-	-> 
+	-> 2 tipos de conhecimento
+		raso e profundo
+		
