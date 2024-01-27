@@ -8,11 +8,12 @@
 				entre 30 e 50 min
 		-> tempo maximo de limite do cerebro de total atenção: 90 min
 
-3- abstrair o conechimento
+3- abstrair o conhecimento
 	-> aprender é melhor que decorar
 		entenda pequenas partes para corelaciona-las
 	-> 2 tipos de conhecimento
 		raso e profundo
 	-> aprender todo o contexto que voce esta estudando do que se apegar aos detalhes
-		um baterista conhecer melhor o ritmo que esta tocando que a configuração da bateria
-		na receita, seguir o passo a passo inicial, para aprender, entender o porque do passo a passo para depois 	
+		1.um baterista conhecer melhor o ritmo que esta tocando que a configuração da bateria
+		2.na receita, seguir o passo a passo inicial, para aprender, entender o porque do passo a passo para depois 	conseguir replicar em outras receitas
+
