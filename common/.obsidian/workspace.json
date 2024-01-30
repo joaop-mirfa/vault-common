@@ -161,6 +161,8 @@
   },
   "active": "88c63b67ab0b8efc",
   "lastOpenFiles": [
+    "Programming paradigms/Object Oriented/Concepts/Abstraction.md",
+    "Software Arch Principles/SOLID Principles/SOLID.md",
     "Software Arch Principles/SOLID Principles/Single Reponsibility Principle.md",
     "Software Arch Principles/SOLID Principles/Open-Closed Principle.md",
     "Software Arch Principles/SOLID Principles/Liskov Substitution Principle.md",
@@ -173,7 +175,6 @@
     "Software Infrastructure/Api Gateway",
     "Software Infrastructure",
     "Programming paradigms/Object Oriented/Concepts/Covariance & Contravariance.md",
-    "Software Arch Principles/SOLID Principles/SOLID.md",
     "Programming paradigms/Object Oriented/Concepts/Interfaces.md",
     "Programming paradigms/Object Oriented/Concepts/Encapsulation.md",
     "Programming paradigms/Object Oriented/Concepts/Coupling.md",
