@@ -129,8 +129,36 @@ IMPORTANTE: Pessoas físicas que investem em Letras de Crédito do Agronegócio
 (LCA) possuem isenção de Imposto de Renda (IR).
 
 ### 3 Certificado de Recebíveis Imobiliários – CRI
+São títulos de renda fixa de longo prazo emitido exclusivamente por uma companhia
+securitizadora, com lastro em um empreendimento imobiliário que pagam juros ao
+investidor.
+Os lastros mais comuns de um CRI são os créditos decorrentes de contratos de compra e
+venda com alienação fiduciária do Sistema de Financiamento Imobiliário (SFI). A oferta
+pública de distribuição de CRI só pode ser iniciada após a concessão de registro e estando
+o registro de companhia aberta da companhia securitizadora atualizado junto a CVM. Os
+CRI’s representam uma ótima opção de investimento para pessoas físicas, bancos,
+fundações e fundos de investimento.
+IMPORTANTE: Somente CRI com valor nominal mínimo de R$ 300.000,00 (trezentos
+mil reais) pode ser objeto de distribuição pública. Algumas das vantagens de se investir
+em CRI’s:
+• Investimento de longo prazo com rentabilidade acima dos títulos públicos;
+• Possuem garantia real, porém não estão cobertos pelo FGC;
+• Isenção de Imposto de Renda para pessoas físicas;
+• Substitui os investimentos imobiliários, reduzindo os custos administrativos de vacância e
+reformas.
+IMPORTANTE: Investimento em CRI não estão cobertos pelo FGC.
 
 
-4. Certificado de Recebíveis do Agronegócio – CRA
+###  Certificado de Recebíveis do Agronegócio – CRA
 
+Podem emitir CRA as companhias securitizadoras de direitos creditórios do agronegócio,
+ou seja, instituições não financeiras constituídas sob a forma de sociedade por ações com
+a finalidade de aquisição e securitização desses direitos e de emissão e colocação de
+Certificados de Recebíveis do Agronegócio no mercado financeiro e de capitais.
 
+O CRA deverá conter, no mínimo, os requisitos exigidos na legislação aplicável ao título.
+Pode ser distribuído publicamente e negociado na Bolsa, bem como em mercados de
+balcão organizados autorizados a funcionar pela Comissão de Valores Mobiliários.
+Garantias: CRA não está coberto pelo Fundo Garantidor de Crédito – FGC.
+Tributação: os rendimentos são isentos de IR, quando a CRA for emitida em favor de
+pessoa física.
