@@ -80,3 +80,14 @@ Resgate Antecipado: as debêntures podem ter na escritura de emissão cláusula 
 resgate antecipado, que dá ao emissor (a empresa que está captando recursos) o direito
 de resgatar antecipadamente, parcial ou totalmente as debêntures em circulação.
 IMPORTANTE: Aplicações em debêntures não estão cobertas pelo FGC.
+
+Debêntures Incentivadas – DI
+
+A emissão do título destina-se ao financiamento de projetos voltados para a implantação,
+ampliação, manutenção, recuperação ou modernização, entre outros, do setor de logística
+e transporte, o qual está inserido no segmento portuário.
+Principais diferenças de uma debênture comum:
+1. prazo médio ponderado mínimo de 4 anos;
+2. Isenção de Imposto de Renda para pessoa física;
+3. Menor alíquota de imposto de renda para investidor pessoa jurídica (15%).
+
