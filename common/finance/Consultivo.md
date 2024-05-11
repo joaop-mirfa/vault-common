@@ -166,3 +166,28 @@ pessoa física.
 
 # Fundo de investimento
 
+Fundos de Investimento: compram ativos como títulos públicos, CDB’s, ações, debêntures
+e etc.
+
+Fundo de investimento de Renda Fixa:
+Investem no mínimo 80% de seu Patrimônio Líquido em ativos de renda fixa expostos a
+variação da taxa de juros ou a um índice de preços, ou ambos.
+Sua carteira é composta por títulos que rendem uma taxa previamente acordada. Estes
+fundos se beneficiam em um cenário de queda de juros, mas tem risco de taxa de juros
+e eventualmente crédito.
+
+Fundo de investimento em Ações
+
+Investe no mínimo 67% do seu Patrimônio Líquido em ações negociadas no mercado à
+vista de bolsa de valores.
+A performance destes fundos está sujeita à variação de preço das ações que compõem
+sua carteira. Normalmente, apresentam maior volatilidade. Por isso, são mais indicados
+para quem tem objetivos de investimento de longo prazo.
+
+Fundos Multimercados:
+Os Fundos classificados como "Multimercado" devem possuir políticas de investimento
+que envolvam vários fatores de risco, sem o compromisso de concentração em nenhum
+fator em especial ou em fatores diferentes das demais classes previstas na instrução.
+Ou seja, este tipo de Fundo pode aplicar em DI/SELIC, índices de preços, taxas de
+juros, câmbio, dívida externa e ações.
+
