@@ -36,3 +36,7 @@ I. PU: preço unitário do título, ou seja, o preço de negociação calculado 
 II. O cálculo do PU é o valor presente dos fluxos futuros de pagamento do título.
 III. O valor do PU de um título prefixado é INVERSAMENTE proporcional à taxa de juros, ou seja, quanto maior a taxa de juros menor será o PU do título. 
 IV. Quanto maior o PU de um título menor será a sua rentabilidade (seu retorno).
+
+![[Pasted image 20240511062224.png]]
+
+
