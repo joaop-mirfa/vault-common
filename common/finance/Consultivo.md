@@ -212,3 +212,10 @@ Exemplo: Quando o COE é comprado, o dinheiro vai para o banco emissor e fica
 atrelado aos ativos. Caso o ativo em questão suba, o investidor participa da alta do
 ativo, entretanto, caso o ativo venha a cair até o vencimento o investidor terá seu capital
 de volta (nessa modalidade o COE seria de capital garantido).
+A emissão desse instrumento poderá ser feita em duas modalidades: A. Valor
+Nominal Protegido: quando há garantia do valor principal investido. B. Valor
+Nominal em Risco: quando há possibilidade de perda até o limite do capital
+investido.
+Riscos: Risco de crédito do emissor: o recebimento dos pagamentos dos certificados
+está sujeito ao risco de crédito do emissor e não conta com a garantia do Fundo
+Garantidor de Créditos – FGC.
