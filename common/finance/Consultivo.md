@@ -1,5 +1,5 @@
 
-#1 INSTRUMENTOS DE RENDA VARIÁVEL
+# 1 INSTRUMENTOS DE RENDA VARIÁVEL
 
 Renda Variável: são classificados como instrumentos de renda variável aqueles produtos
 cujos rendimentos não são conhecidos, ou não podem ser previamente determinados, pois
@@ -10,3 +10,10 @@ ganhos, porém o risco de eventuais perdas é bem maior.
 - Ações
 menor "fração" do capital social de uma empresa, ou seja, a unidade do
 capital nas sociedades anônimas.
+
+
+# 2 INSTRUMENTOS DE RENDA FIXA
+
+é uma obrigação cujo rendimento (taxa de juros) é determinado no momento da
+compra do título. Esse rendimento pode ter sua remuneração prefixada ou pós- fixada.
+
