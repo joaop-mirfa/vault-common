@@ -111,10 +111,26 @@ FGC, até o limite vigente que atualmente é de R$ 250.000,00.
 Importante: Pessoas físicas que investem em Letras de Crédito Imobiliário (LCI) possuem
 isenção de Imposto de Renda (IR).
 
-
-
 ### 2 Letra de Crédito do Agronegócio – LCA
-3. Certificado de Recebíveis Imobiliários – CRI
+
+São títulos de crédito representativos de promessa de pagamento em dinheiro, de
+execução extrajudicial, emitidos com base em lastro de recebíveis originados de negócios
+realizados com produtores rurais e cooperativas, relacionados com a produção,
+comercialização, beneficiamento ou industrialização de produtos ou insumos
+agropecuários ou de máquinas e implementos utilizados na atividade agropecuária.
+Título de crédito representativo de uma promessa de pagamento em dinheiro, este título só
+pode ser emitido por bancos e por cooperativas de crédito (instituição financeira pública ou
+privada).
+Os recebíveis vinculados ao LCA deverão ser registrados em sistemas de registro e
+
+liquidação financeira de ativos e custodiados em instituição autorizada.
+Garantias: As LCA’s estão cobertas pelo FGC, limitadas a R$ 250.000,00.
+IMPORTANTE: Pessoas físicas que investem em Letras de Crédito do Agronegócio
+(LCA) possuem isenção de Imposto de Renda (IR).
+
+### 3 Certificado de Recebíveis Imobiliários – CRI
+
+
 4. Certificado de Recebíveis do Agronegócio – CRA
 
 
