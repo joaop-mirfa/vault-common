@@ -191,3 +191,24 @@ fator em especial ou em fatores diferentes das demais classes previstas na instr
 Ou seja, este tipo de Fundo pode aplicar em DI/SELIC, índices de preços, taxas de
 juros, câmbio, dívida externa e ações.
 
+Exchange Traded Funds
+Um ETF, sigla em inglês para Exchange-Traded Fund, é um tipo de fundo de investimento
+que é negociado em bolsas de valores, como se fosse uma ação. Ele é criado para replicar
+um índice de mercado, como o Ibovespa, o S&P 500 ou o Nasdaq 100. Ao comprar cotas
+de um ETF, o investidor está comprando uma fração de um portfólio de ativos, que reflete o
+desempenho do índice de mercado escolhido. Dessa forma, ele consegue investir em um
+conjunto diversificado de empresas ou ativos, sem precisar comprar cada um
+individualmente. Os ETFs têm a vantagem de serem uma forma de investimento acessível,
+com baixo custo e fácil negociação na bolsa de valores, além de proporcionar uma ampla
+diversificação de ativos com uma única transação.
+
+COE – Certificado de Operações Estruturadas
+É um tipo de investimento que combina elementos de Renda Fixa e Renda Variável,
+com retornos atrelados a ativos e índices, como câmbio, inflação, ações e ativos
+internacionais. Ao criar o COE, a emissora estrutura pacotes de cenários para o
+desempenho de um ativo ou indexador, que pode ser tanto nacional como internacional.
+O COE é sempre emitido por um banco e registrado na Cetip.
+Exemplo: Quando o COE é comprado, o dinheiro vai para o banco emissor e fica
+atrelado aos ativos. Caso o ativo em questão suba, o investidor participa da alta do
+ativo, entretanto, caso o ativo venha a cair até o vencimento o investidor terá seu capital
+de volta (nessa modalidade o COE seria de capital garantido).
