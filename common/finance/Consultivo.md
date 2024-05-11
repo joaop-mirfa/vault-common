@@ -90,8 +90,14 @@ Principais diferenças de uma debênture comum:
 3. Menor alíquota de imposto de renda para investidor pessoa jurídica (15%).
 
 Títulos do Segmento Imobiliário e Agrícola
-1. Letra de Crédito Imobiliário – LCI
-	1. 
+## 1 Letra de Crédito Imobiliário – LCI
+
+Título emitido por bancos comerciais, bancos múltiplos com carteira de crédito imobiliário, a
+Caixa Econômica Federal, sociedades de crédito imobiliário, associações de poupança e
+empréstimo, companhias hipotecárias e demais espécies de instituições que venham a ser
+expressamente autorizadas pelo Banco Central. Obrigatoriamente, registrada na Cetip.
+
+
 2. Letra de Crédito do Agronegócio – LCA
 3. Certificado de Recebíveis Imobiliários – CRI
 4. Certificado de Recebíveis do Agronegócio – CRA
