@@ -90,15 +90,30 @@ Principais diferenças de uma debênture comum:
 3. Menor alíquota de imposto de renda para investidor pessoa jurídica (15%).
 
 Títulos do Segmento Imobiliário e Agrícola
-## 1 Letra de Crédito Imobiliário – LCI
+### 1 Letra de Crédito Imobiliário – LCI
 
 Título emitido por bancos comerciais, bancos múltiplos com carteira de crédito imobiliário, a
 Caixa Econômica Federal, sociedades de crédito imobiliário, associações de poupança e
 empréstimo, companhias hipotecárias e demais espécies de instituições que venham a ser
 expressamente autorizadas pelo Banco Central. Obrigatoriamente, registrada na Cetip.
+Emitido sob a forma nominativa, podendo ser transferível mediante endosso em preto. É
+lastreado por créditos imobiliários garantidos por hipoteca ou por alienação fiduciária de
+coisa imóvel, conferindo aos seus tomadores direito de crédito pelo valor nominal, juros e,
+se for o caso, atualização monetária nelas estipulados.
+
+A LCI poderá ser garantida por um ou mais créditos imobiliários, mas a soma do principal
+das LCI emitidas não poderá exceder o valor total dos créditos imobiliários em poder da
+instituição emitente.
+Prazos: O prazo de vencimento destes papéis é limitado pelo prazo das obrigações
+imobiliárias que serviram de base para o seu lançamento. Garantias: Aplicações em LCI
+contam com garantia real e também com a cobertura do Fundo Garantidor de Crédito –
+FGC, até o limite vigente que atualmente é de R$ 250.000,00.
+Importante: Pessoas físicas que investem em Letras de Crédito Imobiliário (LCI) possuem
+isenção de Imposto de Renda (IR).
 
 
-2. Letra de Crédito do Agronegócio – LCA
+
+### 2 Letra de Crédito do Agronegócio – LCA
 3. Certificado de Recebíveis Imobiliários – CRI
 4. Certificado de Recebíveis do Agronegócio – CRA
 
