@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6b8baae934161ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "88c63b67ab0b8efc",
+  "active": "a6b8baae934161ac",
   "lastOpenFiles": [
     "Programming paradigms/Object Oriented/Concepts/Polymorphism.md",
     "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
