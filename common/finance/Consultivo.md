@@ -57,3 +57,26 @@ ao CDB. “CDB swapado”
 TÍTULOS CORPORATIVOS
 
 Debêntures
+O objetivo da emissão de uma debênture é de captação de recursos de médio e longo
+prazo para sociedades anônimas (S.A.) não financeiras de capital aberto.
+
+As sociedades
+
+de arrendamento mercantil e as companhias hipotecárias estão também autorizadas a
+emitir debêntures.
+Não existe padronização das características deste título. Ou seja, a debênture pode incluir:
+• Qualquer prazo de vencimento;
+• Amortização (pagamento do valor nominal) programada na forma anual,
+semestral, trimestral, mensal ou esporádica, no percentual que a emissora decidir; •
+Remunerações através de correção monetária ou de juros;
+• Remunerações através do prêmio (podendo ser vinculado à receita ou lucro da
+emissora).
+Direito dos debenturistas: além das três formas de remuneração, o debenturista pode
+gozar de outros direitos/atrativos, desde que estejam na escritura, com o propósito de
+tornar mais atrativo o investimento neste ativo:
+• Conversão da debênture em ações da companhia (debênture conversível);
+• Garantias contra o inadimplemento da emissora.
+Resgate Antecipado: as debêntures podem ter na escritura de emissão cláusula de
+resgate antecipado, que dá ao emissor (a empresa que está captando recursos) o direito
+de resgatar antecipadamente, parcial ou totalmente as debêntures em circulação.
+IMPORTANTE: Aplicações em debêntures não estão cobertas pelo FGC.
