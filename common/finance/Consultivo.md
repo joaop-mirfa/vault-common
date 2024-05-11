@@ -17,3 +17,7 @@ capital nas sociedades anônimas.
 é uma obrigação cujo rendimento (taxa de juros) é determinado no momento da
 compra do título. Esse rendimento pode ter sua remuneração prefixada ou pós- fixada.
 
+Investimentos em renda fixa podem ter rentabilidades pagas de duas maneiras: 
+- Pré-Fixada: Um título é prefixado quando o valor dos rendimentos é conhecido no início da operação.
+- Pós-Fixada: Um título é pós-fixado quando o valor dos juros somente é conhecido no momento do resgate.
+
