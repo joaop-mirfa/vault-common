@@ -14,8 +14,7 @@ capital nas sociedades anônimas.
 
 # 2 INSTRUMENTOS DE RENDA FIXA
 
-é uma obrigação cujo rendimento (taxa de juros) é determinado no momento da
-compra do título. Esse rendimento pode ter sua remuneração prefixada ou pós- fixada.
+é uma obrigação cujo rendimento (taxa de juros) é determinado no momento da compra do título. Esse rendimento pode ter sua remuneração prefixada ou pós- fixada.
 
 Investimentos em renda fixa podem ter rentabilidades pagas de duas maneiras: 
 - Pré-Fixada: Um título é prefixado quando o valor dos rendimentos é conhecido no início da operação.
@@ -39,4 +38,6 @@ IV. Quanto maior o PU de um título menor será a sua rentabilidade (seu retorno
 
 ![[Pasted image 20240511062224.png]]
 
+
+CDB – Certificado de Depósito Bancário
 
