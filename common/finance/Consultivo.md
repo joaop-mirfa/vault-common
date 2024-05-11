@@ -41,3 +41,19 @@ IV. Quanto maior o PU de um título menor será a sua rentabilidade (seu retorno
 
 CDB – Certificado de Depósito Bancário
 
+O CDB É um título privado de renda fixa para a captação de recursos de investidores
+pessoas físicas ou jurídicas, por parte dos bancos. O CDB pode ser emitido por bancos
+comerciais, bancos de investimento e bancos múltiplos, com pelo menos uma destas
+carteiras descritas.
+Rentabilidade:
+• Pré-Fixada
+• Pós-Fixada
+Liquidez: O CDB pode ser negociado no mercado secundário. O CDB também pode ser resgatado antes do prazo final caso o banco emissor concorde em resgatá-lo.
+No caso de resgate antes do prazo final, devem ser respeitados os prazos mínimos. 
+Os CDB’s não podem ser indexados à variação cambial. Quando o investidor deseja obter um rendimento atrelado à variação cambial, é necessário fazer um contrato de swap paralelo
+ao CDB. “CDB swapado”
+
+
+TÍTULOS CORPORATIVOS
+
+Debêntures
