@@ -20,4 +20,7 @@ compra do título. Esse rendimento pode ter sua remuneração prefixada ou pós-
 Investimentos em renda fixa podem ter rentabilidades pagas de duas maneiras: 
 - Pré-Fixada: Um título é prefixado quando o valor dos rendimentos é conhecido no início da operação.
 - Pós-Fixada: Um título é pós-fixado quando o valor dos juros somente é conhecido no momento do resgate.
+	- Os investimentos que possuem rentabilidade pós-fixada, podem ter sua rentabilidade atrelada a diversas taxas de juros, índices de preço ou correções comentários. As principais são: CDI, SELIC, TR, TBF, IPCA e IGP-M.
 
+Títulos Públicos Federais
+	
