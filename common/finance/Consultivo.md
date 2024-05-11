@@ -23,4 +23,9 @@ Investimentos em renda fixa podem ter rentabilidades pagas de duas maneiras:
 	- Os investimentos que possuem rentabilidade pós-fixada, podem ter sua rentabilidade atrelada a diversas taxas de juros, índices de preço ou correções comentários. As principais são: CDI, SELIC, TR, TBF, IPCA e IGP-M.
 
 Títulos Públicos Federais
-	
+
+dívida pública federal interna e externa é composta, em sua maior parte, por títulos mobiliários que diferem entre si conforme o contexto e a finalidade da emissão. 
+Os TPF são títulos de Renda fixa que é uma obrigação cujo rendimento (taxa de juros) é determinado no momento da compra do título. 
+Esse rendimento pode ter sua remuneração prefixada ou pós-fixada. Para os títulos pós-fixados, por exemplo, tem-se diferentes
+indexadores, que variam conforme o tipo. Existem também aqueles que não possuem
+indexadores, os chamados títulos prefixados.
