@@ -60,9 +60,7 @@ Debêntures
 O objetivo da emissão de uma debênture é de captação de recursos de médio e longo
 prazo para sociedades anônimas (S.A.) não financeiras de capital aberto.
 
-As sociedades
-
-de arrendamento mercantil e as companhias hipotecárias estão também autorizadas a
+As sociedades de arrendamento mercantil e as companhias hipotecárias estão também autorizadas a
 emitir debêntures.
 Não existe padronização das características deste título. Ou seja, a debênture pode incluir:
 • Qualquer prazo de vencimento;
@@ -90,4 +88,12 @@ Principais diferenças de uma debênture comum:
 1. prazo médio ponderado mínimo de 4 anos;
 2. Isenção de Imposto de Renda para pessoa física;
 3. Menor alíquota de imposto de renda para investidor pessoa jurídica (15%).
+
+Títulos do Segmento Imobiliário e Agrícola
+1. Letra de Crédito Imobiliário – LCI
+	1. 
+2. Letra de Crédito do Agronegócio – LCA
+3. Certificado de Recebíveis Imobiliários – CRI
+4. Certificado de Recebíveis do Agronegócio – CRA
+
 
