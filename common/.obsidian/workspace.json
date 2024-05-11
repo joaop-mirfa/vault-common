@@ -23,9 +23,11 @@
             "id": "a6b8baae934161ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "finance/Consultivo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
+                "file": "finance/Consultivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
+                "file": "finance/Consultivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reconhecimento de padrões/2- Redes Neurais artificiais.md"
+                "file": "finance/Consultivo.md"
               }
             }
           },
@@ -172,6 +174,8 @@
   },
   "active": "a6b8baae934161ac",
   "lastOpenFiles": [
+    "finance/Consultivo.md",
+    "finance",
     "Programming paradigms/Object Oriented/Concepts/Polymorphism.md",
     "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
     "Reconhecimento de padrões",
@@ -199,7 +203,6 @@
     "Programming paradigms",
     "Software Arch Principles/Concepts",
     "Software Arch Principles/Anti Patterns/God Object.md",
-    "Software Arch Principles/Anti Patterns",
     "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
     "teste/teste 2.md",
