@@ -162,3 +162,6 @@ balcão organizados autorizados a funcionar pela Comissão de Valores Mobiliári
 Garantias: CRA não está coberto pelo Fundo Garantidor de Crédito – FGC.
 Tributação: os rendimentos são isentos de IR, quando a CRA for emitida em favor de
 pessoa física.
+
+
+# Fundo de investimento
