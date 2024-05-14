@@ -108,3 +108,9 @@ Derivadas parciais da função desvio
 ![[Pasted image 20240514104655.png]]
 
 
+### Regressão Polinomial
+![[Pasted image 20240514105023.png]]
+
+
+Complexidade regress˜ao linear m´ultipla e polinomial via equa¸c˜oes normais
+
