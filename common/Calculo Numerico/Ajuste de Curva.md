@@ -114,3 +114,5 @@ Derivadas parciais da função desvio
 
 Complexidade regress˜ao linear m´ultipla e polinomial via equa¸c˜oes normais
 
+![[Pasted image 20240514105111.png]]
+
