@@ -101,3 +101,9 @@ Derivadas parciais da função desvio
 
 ![[Pasted image 20240514104142.png]]
 
+4.1 Equações Normais
+![[Pasted image 20240514104636.png]]
+
+
+![[Pasted image 20240514104655.png]]
+
