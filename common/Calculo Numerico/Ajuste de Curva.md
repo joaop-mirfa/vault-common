@@ -85,3 +85,5 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 ## 4 Regressão Linear Múltipla
 
 
+Modelo mais completo que relaciona a variável resposta y com as p vari´aveis explicativas xi
+
