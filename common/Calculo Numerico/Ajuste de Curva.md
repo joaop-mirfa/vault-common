@@ -92,5 +92,9 @@ Modelo mais completo que relaciona a variável resposta y com as p variaveis exp
 βi -> parametros para estimar
 e -> variável aleatória
 
+![[Pasted image 20240514103909.png]]
 
+Derivadas parciais
+
+![[Pasted image 20240514103947.png]]
 
