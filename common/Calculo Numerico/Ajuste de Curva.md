@@ -1,5 +1,5 @@
 
-1- Intro
+## 1- Intro
 
 1.1- Relações entre variáveis envolvidas em um experimento
 	 - Determinísticas
@@ -15,5 +15,11 @@
 
 1.4 Objetivo Ajuste de Curvas
 
-1.5 O 
+1.5 O que é a regressão
+
+
+
+## 2 -Regressão Linear Simples
+
+
 
