@@ -53,4 +53,8 @@ Valores em que D(β0 , β1 ) apresenta um mínimo são obtidos pela solução do
 
 ![[Pasted image 20240514090129.png]]
 
+Para resolver, utilizar operações l elementares
+![[Pasted image 20240514090236.png]]
+
+Encontra-se então os parâmetros estimados
 
