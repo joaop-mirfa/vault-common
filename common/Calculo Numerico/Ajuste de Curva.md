@@ -22,6 +22,6 @@
 ## 2 -Regressão Linear Simples
 
 Relação simples entre 2 variáveis
-
+![[Pasted image 20240514084927.png]]
 
 
