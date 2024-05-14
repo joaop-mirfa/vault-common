@@ -61,3 +61,7 @@ Encontra-se então os parâmetros estimados
 ![[Pasted image 20240514090314.png]]
 
 
+1.4 Observações
+O ajustes por quadrado minimo apresenta o melhor dos resultados do desvio comparado a regressão linear simples
+
+
