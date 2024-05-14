@@ -24,14 +24,14 @@
 Relação simples entre 2 variáveis
 ![[Pasted image 20240514084927.png]]
 
-1.2 Diagrama de dispersão
+2.2 Diagrama de dispersão
 
-1.3 Retas de regressão 
+2.3 Retas de regressão 
 ![[Pasted image 20240514085149.png]]
 
 Necessário estimar parâmetros B0 e B1
 
-1.4 Qualidade do modelo
+2.4 Qualidade do modelo
 
 Mensurar o desvio:
 ![[Pasted image 20240514085354.png]]
