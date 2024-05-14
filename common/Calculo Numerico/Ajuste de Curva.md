@@ -65,4 +65,6 @@ Encontra-se então os parâmetros estimados
 O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio comparado a regressão linear simples
 
 
-3.2 Soma de
+3.2 Soma de quadrados - Encontrando o coeficiente
+
+
