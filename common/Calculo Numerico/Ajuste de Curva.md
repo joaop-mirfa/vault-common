@@ -68,3 +68,9 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 3.2 Soma de quadrados - Encontrando o coeficiente
 
 
+![[Pasted image 20240514091712.png]]
+
+![[Pasted image 20240514091724.png]]
+
+3.3 Calculo do residuo
+
