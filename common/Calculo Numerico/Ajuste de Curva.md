@@ -5,4 +5,4 @@
 	 - Determinísticas
 	 - Semideterministicas
 	 - Empíricas
-
+- 
