@@ -107,3 +107,4 @@ Derivadas parciais da função desvio
 
 ![[Pasted image 20240514104655.png]]
 
+
