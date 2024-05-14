@@ -58,3 +58,6 @@ Para resolver, utilizar operações l elementares
 
 Encontra-se então os parâmetros estimados
 
+![[Pasted image 20240514090314.png]]
+
+
