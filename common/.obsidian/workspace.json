@@ -11,9 +11,11 @@
             "id": "1e4d90c9216666d5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Calculo Numerico/Pasted image 20240514090236.png"
+                "file": "Calculo Numerico/Ajuste de Curva.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo Numerico/Pasted image 20240514090236.png",
+                "file": "Calculo Numerico/Ajuste de Curva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo Numerico/Pasted image 20240514090236.png",
+                "file": "Calculo Numerico/Ajuste de Curva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo Numerico/Pasted image 20240514090236.png"
+                "file": "Calculo Numerico/Ajuste de Curva.md"
               }
             }
           },
@@ -159,16 +161,16 @@
   },
   "active": "1e4d90c9216666d5",
   "lastOpenFiles": [
-    "Calculo Numerico/Pasted image 20240514090129.png",
-    "Calculo Numerico/Pasted image 20240514085954.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514090236.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514090129.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514085954.png",
     "Calculo Numerico/Ajuste de Curva.md",
-    "Calculo Numerico/Pasted image 20240514092218.png",
-    "Calculo Numerico/Pasted image 20240514092117.png",
-    "Calculo Numerico/Pasted image 20240514091814.png",
-    "Calculo Numerico/Pasted image 20240514091724.png",
-    "Calculo Numerico/Pasted image 20240514091712.png",
-    "Calculo Numerico/Pasted image 20240514090314.png",
-    "Calculo Numerico/Pasted image 20240514090236.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514092218.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514092117.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514091814.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514091724.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514091712.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514090314.png",
     "Calculo Numerico/Imagens/Pasted image 20240514085653.png",
     "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
     "Calculo Numerico/Imagens",
