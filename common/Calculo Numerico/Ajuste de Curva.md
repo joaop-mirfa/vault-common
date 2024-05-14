@@ -76,3 +76,5 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 
 ![[Pasted image 20240514091814.png]]
 
+![[Pasted image 20240514092117.png]]
+
