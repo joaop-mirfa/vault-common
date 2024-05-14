@@ -78,3 +78,7 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 
 ![[Pasted image 20240514092117.png]]
 
+3.4 Variancia Residual
+
+![[Pasted image 20240514092218.png]]
+
