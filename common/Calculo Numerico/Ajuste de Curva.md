@@ -129,3 +129,4 @@ escolha do grau do polinˆomio de quadrados m´ınimos
 
 
 
+
