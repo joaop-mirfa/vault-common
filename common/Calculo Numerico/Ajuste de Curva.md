@@ -45,4 +45,8 @@ Método que propõe encontrar o menor valor de desvio:
 
 ![[Pasted image 20240514085653.png]]
 
+funçao D(β0 , β1 ) possui um mínimo -> onde as derivadas parciais se anulam.
+
+![[Pasted image 20240514085954.png]]
+
 
