@@ -32,6 +32,8 @@ Relação simples entre 2 variáveis
 Necessário estimar parâmetros B0 e B1
 
 1.4 Qualidade do modelo
+
+Mensurar o desvio:
 ![[Pasted image 20240514085354.png]]
 
 u <- distancia vertical do ponto ate a reta
@@ -39,4 +41,8 @@ u <- distancia vertical do ponto ate a reta
 
 ## 3- Método dos quadrados mínimos
 
-Metodo que prop
+Método que propõe encontrar o menor valor de desvio:
+
+![[Pasted image 20240514085653.png]]
+
+
