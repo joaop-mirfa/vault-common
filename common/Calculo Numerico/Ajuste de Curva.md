@@ -49,6 +49,8 @@ funçao D(β0 , β1 ) possui um mínimo -> onde as derivadas parciais se anulam.
 
 ![[Pasted image 20240514085954.png]]
 
-Valores em que D(β0 , β1 ) apresenta um mínim s˜ao obtidos pela solu¸c˜ao do sistema linear (1), denominado equa¸c˜oes normais.
+Valores em que D(β0 , β1 ) apresenta um mínimo são obtidos pela solução do sistema linear (1), denominado equaçoes normais.
+
+![[Pasted image 20240514090129.png]]
 
 
