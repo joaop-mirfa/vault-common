@@ -74,3 +74,5 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 
 3.3 Calculo do residuo
 
+![[Pasted image 20240514091814.png]]
+
