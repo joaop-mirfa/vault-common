@@ -25,3 +25,8 @@ Relação simples entre 2 variáveis
 ![[Pasted image 20240514084927.png]]
 
 
+1.2 Diagrama de dispersão
+
+1.3 Retas de regressão 
+![[Pasted image 20240514085149.png]]
+
