@@ -15,5 +15,5 @@
 
 1.4 Objetivo Ajuste de Curvas
 
-
+1.5 O 
 
