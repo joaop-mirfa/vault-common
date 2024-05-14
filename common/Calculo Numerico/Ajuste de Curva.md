@@ -37,3 +37,6 @@ Necessário estimar parâmetros B0 e B1
 u <- distancia vertical do ponto ate a reta
 
 
+## 3- Método dos quadrados mínimos
+
+Metodo que prop
