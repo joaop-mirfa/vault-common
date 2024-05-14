@@ -116,3 +116,11 @@ Complexidade regress˜ao linear m´ultipla e polinomial via equa¸c˜oes normais
 
 ![[Pasted image 20240514105111.png]]
 
+escolha do grau do polinˆomio de quadrados m´ınimos
+
+![[Pasted image 20240514105238.png]]
+
+![[Pasted image 20240514105248.png]]
+
+
+
