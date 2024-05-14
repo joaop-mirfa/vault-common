@@ -94,7 +94,7 @@ e -> variável aleatória
 
 ![[Pasted image 20240514103909.png]]
 
-Derivadas parciais
+Derivadas parciais da função desvio
 
 ![[Pasted image 20240514103947.png]]
 
