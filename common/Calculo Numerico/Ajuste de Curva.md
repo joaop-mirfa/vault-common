@@ -87,3 +87,10 @@ O ajustes por quadrado mínimo apresenta o melhor dos resultados do desvio compa
 
 Modelo mais completo que relaciona a variável resposta y com as p variaveis explicativas xi
 
+![[Pasted image 20240514103810.png]]
+
+βi -> parametros para estimar
+e -> variável aleatória
+
+
+
