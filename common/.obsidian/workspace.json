@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Consultivo.md",
+                "file": "Calculo Numerico/Ajuste de Curva.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finance/Consultivo.md",
+                "file": "Calculo Numerico/Ajuste de Curva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finance/Consultivo.md",
+                "file": "Calculo Numerico/Ajuste de Curva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance/Consultivo.md"
+                "file": "Calculo Numerico/Ajuste de Curva.md"
               }
             }
           },
@@ -172,10 +172,12 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "034ea952d6f41102",
+  "active": "a6b8baae934161ac",
   "lastOpenFiles": [
-    "finance/Pasted image 20240511062224.png",
     "finance/Consultivo.md",
+    "Calculo Numerico/Ajuste de Curva.md",
+    "Calculo Numerico",
+    "finance/Pasted image 20240511062224.png",
     "finance",
     "Programming paradigms/Object Oriented/Concepts/Polymorphism.md",
     "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
@@ -202,7 +204,6 @@
     "Programming paradigms/Object Oriented/Concepts",
     "Programming paradigms/Object Oriented",
     "Programming paradigms",
-    "Software Arch Principles/Concepts",
     "Software Arch Principles/Anti Patterns/God Object.md",
     "teste/Drawing 2023-12-19 09.08.42.md",
     "teste/teste.md",
