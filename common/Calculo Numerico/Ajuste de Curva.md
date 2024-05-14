@@ -125,7 +125,6 @@ escolha do grau do polinˆomio de quadrados m´ınimos
 
 ### Transformações não lineares
 
-
 ![[Pasted image 20240514105340.png]]
 
 
