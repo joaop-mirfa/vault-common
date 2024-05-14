@@ -34,4 +34,6 @@ Necessário estimar parâmetros B0 e B1
 1.4 Qualidade do modelo
 ![[Pasted image 20240514085354.png]]
 
+u <- distancia vertical do ponto ate a reta
+
 
