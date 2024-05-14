@@ -11,4 +11,9 @@
 1.3 Pertubação na relação de variaveis
 	- precisão
 	- erros
-	- variaçõe
+	- variações de leituras
+
+1.4 Objetivo Ajuste de Curvas
+
+
+
