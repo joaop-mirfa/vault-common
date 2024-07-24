@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b19377f79d16b3cd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Calculo Numerico/Imagens/Pasted image 20240514103909.png"
+              }
+            }
+          },
+          {
+            "id": "dedf094044a46e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculo Numerico/Ajuste de Curva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,20 +182,19 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "1e4d90c9216666d5",
+  "active": "dedf094044a46e01",
   "lastOpenFiles": [
-    "Calculo Numerico/Pasted image 20240514105340.png",
-    "Calculo Numerico/Pasted image 20240514105248.png",
-    "Calculo Numerico/Pasted image 20240514105238.png",
-    "Calculo Numerico/Pasted image 20240514105111.png",
-    "Calculo Numerico/Pasted image 20240514105023.png",
-    "Calculo Numerico/Pasted image 20240514104655.png",
-    "Calculo Numerico/Pasted image 20240514104636.png",
-    "Calculo Numerico/Pasted image 20240514104142.png",
-    "Calculo Numerico/Pasted image 20240514103947.png",
-    "Calculo Numerico/Pasted image 20240514103909.png",
-    "Calculo Numerico/Pasted image 20240514103810.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514103909.png",
     "Calculo Numerico/Ajuste de Curva.md",
+    "Calculo Numerico/Imagens/Pasted image 20240514103947.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514105340.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514105248.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514105238.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514105111.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514105023.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514104655.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514104636.png",
+    "Calculo Numerico/Imagens/Pasted image 20240514104142.png",
     "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
     "Calculo Numerico/Imagens",
     "finance/Consultivo.md",
