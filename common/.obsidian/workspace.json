@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo Numerico/Ajuste de Curva.md",
+                "file": "Software Arch Principles/Anti Patterns/God Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo Numerico/Ajuste de Curva.md",
+                "file": "Software Arch Principles/Anti Patterns/God Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo Numerico/Ajuste de Curva.md",
+                "file": "Software Arch Principles/Anti Patterns/God Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo Numerico/Ajuste de Curva.md"
+                "file": "Software Arch Principles/Anti Patterns/God Object.md"
               }
             }
           },
@@ -182,10 +182,11 @@
       "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
     }
   },
-  "active": "dedf094044a46e01",
+  "active": "034ea952d6f41102",
   "lastOpenFiles": [
-    "Calculo Numerico/Imagens/Pasted image 20240514103909.png",
+    "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
     "Calculo Numerico/Ajuste de Curva.md",
+    "Calculo Numerico/Imagens/Pasted image 20240514103909.png",
     "Calculo Numerico/Imagens/Pasted image 20240514103947.png",
     "Calculo Numerico/Imagens/Pasted image 20240514105340.png",
     "Calculo Numerico/Imagens/Pasted image 20240514105248.png",
@@ -195,7 +196,6 @@
     "Calculo Numerico/Imagens/Pasted image 20240514104655.png",
     "Calculo Numerico/Imagens/Pasted image 20240514104636.png",
     "Calculo Numerico/Imagens/Pasted image 20240514104142.png",
-    "Reconhecimento de padrões/2- Redes Neurais artificiais.md",
     "Calculo Numerico/Imagens",
     "finance/Consultivo.md",
     "Calculo Numerico",
